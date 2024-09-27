@@ -1,0 +1,9 @@
+ricetta_test
+casoncello
+1
+S
+burro
+3
+N
+1
+0,05
